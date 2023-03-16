@@ -1,6 +1,5 @@
 const cards = document.querySelectorAll(".card"); //here, I am calling all the li tags that have the class name "card" and giving them the vaiable-name "CARDS" 
-// const box = cards.querySelectorAll(".view");
-// let card = cards[1, 2, 3, 4, 5, 6, 7, 8, 1, 2, 3, 4, 5, 6, 7, 8];
+
 
 let matchedCard = 0;
 let cardOne, cardTwo;
